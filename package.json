@@ -1,0 +1,8 @@
+{
+  "name": "copy-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eattopking/webpack-npm-plugin.git",
+  "author": "zhangheng05 <zhangheng05@baijiahulian.com>",
+  "license": "MIT"
+}
