@@ -12,7 +12,7 @@ class ProgressWebpackPlugin {
             (context) => {
                 const reportProgress = context && context.reportProgress;
                 if (reportProgress) reportProgress(0.95, 'Hello world');
-                console.log('look me hello world 4888888888888dudjfdjdfjdfjdfjdfjdhfdhfdhfh');
+                console.log('look me hello world 4888888888888dudjfdjdfjdfjdfjdfjdhfdhfdhfh8585hhhhhkkkkkkkk');
             }
         );
     }
